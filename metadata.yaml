@@ -8,6 +8,9 @@ contributor:
     - De Hinojosa, Eduardo
     gutenberg_agent_id: '43678'
     url: http://www.gutenberg.org/2009/agents/43678
+covers:
+- cover_type: archival
+  image_path: 56251-h/images/cover.jpg
 creator:
   author:
     agent_name: Navarro y Lamarca, Carlos
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '48742'
     url: http://www.gutenberg.org/2009/agents/48742
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56251#Compendio-de-la-historia-general-de-America-Tomo-I
 gutenberg_issued: '2017-12-25'
 gutenberg_type: Text
 identifiers:
