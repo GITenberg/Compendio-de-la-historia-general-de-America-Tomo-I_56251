@@ -1,0 +1,33 @@
+_repo: Compendio-de-la-historia-general-de-America-Tomo-I_56251
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hinojosa, Eduardo de
+    aliases:
+    - Naveros, Eduardo de Hinojosa y
+    - De Hinojosa, Eduardo
+    gutenberg_agent_id: '43678'
+    url: http://www.gutenberg.org/2009/agents/43678
+creator:
+  author:
+    agent_name: Navarro y Lamarca, Carlos
+    alias: Lamarca, Carlos Navarro y
+    gutenberg_agent_id: '48742'
+    url: http://www.gutenberg.org/2009/agents/48742
+description: ''
+gutenberg_issued: '2017-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56251'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians'
+- !lcc 'E011'
+- !lcsh 'Latin America -- History'
+- !lcsh 'America -- History'
+- GITenberg
+title: Compendio de la historia general de América. Tomo I
+url: http://www.gutenberg.org/ebooks/56251
